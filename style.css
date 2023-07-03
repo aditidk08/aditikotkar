@@ -363,7 +363,7 @@ section .title::after{
     color: #111;
 }
 .qualification .title::after{
-    background-color: #fff;
+/*     background-color: #fff; */
     content: "My Personal journey";
 }
 @import url("https://fonts.googleapis.com/css2? family=Montserrat:wght@300;500&display=swap");
